@@ -1,0 +1,10 @@
+
+
+[2025-06-03 23:02:03] Startup - updater built Jun 20 2024 10:16:26
+[2025-06-03 23:02:03] Startup - Steam Client launched with: "C:\Users\rakac\OneDrive\Рабочий стол\steam.exe" 
+[2025-06-03 23:02:04] Shutdown
+
+
+[2025-06-03 23:02:06] Startup - updater built Jun 20 2024 10:16:26
+[2025-06-03 23:02:06] Startup - Steam Client launched with: "C:\Users\rakac\OneDrive\Рабочий стол\steam.exe" 
+[2025-06-03 23:02:06] Shutdown
